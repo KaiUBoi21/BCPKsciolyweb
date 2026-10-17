@@ -8,7 +8,7 @@ web
 
 ## Stack
 
-delegated: plain static HTML/CSS (no build step). Chosen so the folder can be dragged onto Netlify and students can edit text without tooling. Deployed on Netlify; the existing free WordPress.com site (bcpscioly-nevda.wordpress.com) stays up and links to it.
+delegated: plain static HTML/CSS (no build step). Chosen so the folder can be dragged onto Netlify and students can edit text without tooling. Deployed on Netlify only; the old WordPress.com site (bcpscioly-nevda.wordpress.com) is retired.
 
 ## Users
 

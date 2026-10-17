@@ -1,3 +1,9 @@
+@font-face {
+  font-family: "Cloister Black";
+  src: url("fonts/CloisterBlack.ttf") format("truetype");
+  font-display: swap;
+}
+
 :root {
   --paper: #f2f2ef;
   --paper-deep: #dfdfda;
@@ -9,7 +15,7 @@
 
   --serif: "Source Serif 4", Georgia, "Times New Roman", serif;
   --sans: "Libre Franklin", "Helvetica Neue", Arial, sans-serif;
-  --blackletter: "UnifrakturMaguntia", "Old English Text MT", serif;
+  --blackletter: "Cloister Black", "Old English Text MT", serif;
 
   --gutter: clamp(16px, 3vw, 32px);
   --max: 1200px;
